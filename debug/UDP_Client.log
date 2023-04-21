@@ -1,0 +1,42 @@
+﻿  Generate moc_predefs.h
+  Uic'ing widget.ui...
+  Rcc'ing resource\resource.qrc...
+  Moc'ing udp_file_send.h...
+  Moc'ing widget.h...
+   Warning: Failed to resolve include "H:/Download/??UDP????????????_?????????/UDP_Client/Debug/moc_predefs.h" for moc file E:\Leventure\WorkShop\Github\UDT_Client\udp_file_send.h
+   Warning: Failed to resolve include "H:/Download/??UDP????????????_?????????/UDP_Client/Debug/moc_predefs.h" for moc file E:\Leventure\WorkShop\Github\UDT_Client\widget.h
+  api.cpp
+  buffer.cpp
+  cache.cpp
+  ccc.cpp
+  channel.cpp
+  common.cpp
+  core.cpp
+  epoll.cpp
+  list.cpp
+  main.cpp
+  md5.cpp
+  packet.cpp
+  queue.cpp
+  udp_file_send.cpp
+  widget.cpp
+  window.cpp
+E:\Leventure\WorkShop\Github\UDT_Client\widget.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+E:\Leventure\WorkShop\Github\UDT_Client\udp_file_send.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Leventure\WorkShop\Github\UDT_Client\udp_file_send.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 udp_file_send.cpp)
+E:\Leventure\WorkShop\Github\UDT_Client\widget.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 widget.cpp)
+E:\Leventure\WorkShop\Github\UDT_Client\udt_src\buffer.cpp(188,31): warning C4244: “=”: 从“std::streamsize”转换到“int”，可能丢失数据
+E:\Leventure\WorkShop\Github\UDT_Client\udt_src\epoll.cpp(110,69): warning C4100: “events”: 未引用的形参
+E:\Leventure\WorkShop\Github\UDT_Client\udp_file_send.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+E:\Leventure\WorkShop\Github\UDT_Client\udt_src\core.cpp(771,1): warning C4297: “CUDT::connect”: 假定函数不引发异常，但确实发生了
+E:\Leventure\WorkShop\Github\UDT_Client\udt_src\core.cpp(771,1): message : 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
+E:\Leventure\WorkShop\Github\UDT_Client\udt_src\core.cpp(1661,24): warning C4244: “=”: 从“const double”转换到“volatile uint64_t”，可能丢失数据
+E:\Leventure\WorkShop\Github\UDT_Client\udp_file_send.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 widget.cpp)
+E:\Leventure\WorkShop\Github\UDT_Client\udp_file_send.cpp(104,10): warning C4189: “ssize”: 局部变量已初始化但不引用
+  qrc_resource.cpp
+  moc_udp_file_send.cpp
+  moc_widget.cpp
+E:\Leventure\WorkShop\Github\UDT_Client\widget.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_widget.cpp)
+E:\Leventure\WorkShop\Github\UDT_Client\udp_file_send.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_udp_file_send.cpp)
+E:\Leventure\WorkShop\Github\UDT_Client\udp_file_send.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 Debug\moc_widget.cpp)
+  UDP_Client.vcxproj -> E:\Leventure\WorkShop\Github\UDT_Client\debug\UDP_Client.exe
